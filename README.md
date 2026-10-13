@@ -24,8 +24,6 @@ I`m full-stack develope
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-💻 **Используемые языки:**
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ctpostudent&layout=compact&langs_count=3&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ctpostudent&layout=compact&langs_count=3&theme=ambient_gradient)
 
-📌 **Избранный проект:**
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ctpostudent&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=ctpostudent&include_all_commits=true&theme=ambient_gradient)
