@@ -27,3 +27,5 @@ I`m full-stack develope
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ctpostudent&layout=compact&langs_count=3&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ctpostudent&layout=compact&langs_count=3&theme=ambient_gradient)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ctpostudent&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=ctpostudent&include_all_commits=true&theme=ambient_gradient)
+
+![icon](https://github.com/ctpostudent/ctpostudent/blob/main/images.png)
